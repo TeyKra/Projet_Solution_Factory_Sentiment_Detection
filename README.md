@@ -1,4 +1,4 @@
-# Projet_Solution_Factory_Sentiment_Detection
+# Solution_Factory_Sentiment_Detection_Project
 
 # Project Guidelines
 
